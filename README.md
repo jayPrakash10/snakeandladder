@@ -1,4 +1,4 @@
-# snakeandladder
+# Snake and Ladder
 
 New Game
 ![newgame](S&L%20new%20game.png)
